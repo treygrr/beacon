@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1757101922542,
+      "tag": "0000_perfect_gressill",
+      "breakpoints": true
+    }
+  ]
+}
