@@ -30,4 +30,4 @@ jobs:
       - name: Build & Deploy to NuxtHub
         uses: nuxt-hub/action@v2
         with:
-          project-key: c-users-nullabl-z0x8
+          project-key: beacon-knu5
